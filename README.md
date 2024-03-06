@@ -45,10 +45,6 @@ So, sharpen your wits, dust off your keyboard, and let the guessing begin! Can y
   
    - Press Enter after each command to execute it.
 
-<div style="text-align:center;">
-    <img width="317" alt="GamePlay" src="https://github.com/mac-360/HangMan_Assembly/assets/122281916/da2ac16b-d48c-4de7-a44b-73f01cb02347">
-</div>
-
 
 2. **Input:**
 
@@ -65,7 +61,12 @@ When running the Hangman game, users can expect the following types of output:
   - The stick man turns red to indicate an incorrect guess.
 - Visual representation of the hangman's progress, showing the parts of the hangman that have been drawn as incorrect guesses accumulate.
 ---
+<div style="text-align:center;">
+    <img width="317" alt="GamePlay" src="https://github.com/mac-360/HangMan_Assembly/assets/122281916/da2ac16b-d48c-4de7-a44b-73f01cb02347">
+</div>
 
+
+---
 
 ## Contributing:
 
